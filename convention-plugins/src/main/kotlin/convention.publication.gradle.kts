@@ -61,9 +61,9 @@ publishing {
 
         // Provide artifacts information requited by Maven Central
         pom {
-            name.set("Reduce")
-            description.set("Kotlin Multiplatform library")
-            //url.set("") todo
+            name.set("Reduce_kmp")
+            description.set("Reduce. MVI Kotlin Multiplatform library")
+            url.set("https://github.com/genaku/Reduce_kmp")
 
             licenses {
                 license {
@@ -73,13 +73,13 @@ publishing {
             }
             developers {
                 developer {
-                    //id.set("") todo
-                    //name.set("") todo
-                    //email.set("") todo
+                    id.set("genaku")
+                    name.set("Gennadiy Kuchergin")
+                    email.set("fenix0gk@gmail.com")
                 }
             }
             scm {
-                //url.set("") todo
+                url.set("https://github.com/genaku/Reduce_kmp")
             }
         }
     }
