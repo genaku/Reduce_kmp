@@ -4,7 +4,7 @@ plugins {
     id("convention.publication")
 }
 
-group = "com.genaku.reduce"
+group = "io.github.genaku.reduce"
 version = "1.0"
 
 kotlin {
