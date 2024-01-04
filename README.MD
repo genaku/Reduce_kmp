@@ -232,12 +232,13 @@ https://github.com/genaku/Reduce_kmp_sample
 # Gradle
 
 **Step 1.** Add the Maven Central repository to your build file.
-Add it in your root build.gradle at the end of repositories:
+Add it in your root build.gradle:
 ```groovy
 allprojects {
     repositories {
         ...
         mavenCentral()
+	...
     }
 }
 ```
