@@ -225,6 +225,10 @@ Raviola in his article [A case against the MVI architecture pattern](https://dev
     }
  ```
 
+# Sample application
+
+https://github.com/genaku/Reduce_kmp_sample
+
 # Gradle
 
 **Step 1.** Add the JitPack repository to your build file.
