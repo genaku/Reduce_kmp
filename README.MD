@@ -1,6 +1,5 @@
-[![](https://jitpack.io/v/genaku/Reduce.svg)](https://jitpack.io/#genaku/Reduce) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-
-# Reduce
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.genaku.reduce/reduce)](https://github.com/genaku/Reduce_kmp) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+# Reduce Kotinl Multiplatform
 
 Concise reactive state container library for Android applications based on Kotlin coroutines.
 
@@ -234,15 +233,14 @@ Add it in your root build.gradle at the end of repositories:
 allprojects {
     repositories {
         ...
-        maven { url 'https://jitpack.io' }
+        mavenCentral()
     }
 }
 ```
 **Step 2.** Add the dependency
 ```groovy
 dependencies {
-    implementation 'com.github.genaku:Reduce:reduce-core:<version>'  // core of Reduce lib
-    implementation 'com.github.genaku:Reduce:reduce-ext:<version>'   // Android extensions to connect reduce knots to activity/fragment lifecycle
+    implementation 'io.github.genaku.reduce:reduce:<version>'  // core of Reduce lib
 }
 ```
 
