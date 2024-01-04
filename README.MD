@@ -231,7 +231,7 @@ https://github.com/genaku/Reduce_kmp_sample
 
 # Gradle
 
-**Step 1.** Add the JitPack repository to your build file.
+**Step 1.** Add the Maven Central repository to your build file.
 Add it in your root build.gradle at the end of repositories:
 ```groovy
 allprojects {
