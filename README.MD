@@ -1,5 +1,5 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.genaku.reduce/reduce)](https://github.com/genaku/Reduce_kmp) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-# Reduce Kotinl Multiplatform
+# Reduce Kotlin Multiplatform MVI library
 
 Concise reactive state container library for Android applications based on Kotlin coroutines.
 
