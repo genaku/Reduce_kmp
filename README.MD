@@ -1,7 +1,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.genaku.reduce/reduce)](https://central.sonatype.com/namespace/io.github.genaku.reduce) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 # Reduce Kotlin Multiplatform MVI library
 
-Concise reactive state container library for Android applications based on Kotlin coroutines.
+Concise reactive state container library for Kotlin multiplatform applications based on Kotlin coroutines.
 
 # Inspiration
 Reduce was inspired by awesome project
@@ -261,7 +261,7 @@ dependencies {
 
 # License
 ```
-Copyright 2021 Gennadiy Kuchergin
+Copyright 2023 Gennadiy Kuchergin
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
